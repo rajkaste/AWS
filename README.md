@@ -1,3 +1,2 @@
 # AWS
-Raj Sandip Kaste
-rajkaste@gmail.com
+Raj Sandip Kaste | rajkaste@gmail.com
